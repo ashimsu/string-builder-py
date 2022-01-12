@@ -1,4 +1,4 @@
-SB2 - String builder SB extension  
+SB2 - String builder SB extension  [==== in progress ==== ]
 
     dependency: SB (see above)
     
